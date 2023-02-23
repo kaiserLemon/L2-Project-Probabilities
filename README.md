@@ -1,5 +1,5 @@
 # Project_probabilities
-Study of different laws of probabilities in Python
+Study of different laws of probabilities in Python (Jupyter Notebook)
 
 - The first report analyzes graphically the difference between the cumulative distribution functions of the binomial distribution and Poisson distribution.
 The main idea is to show that Poisson distribution can be a good approximation of the binomial distribution under certain conditions specified in the report.
