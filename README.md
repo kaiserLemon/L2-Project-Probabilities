@@ -1,4 +1,4 @@
-# Project_probabilities
+# Project-probabilities
 Study of different probability distributions in Python (Jupyter Notebook)
 
 - The first report analyzes graphically the difference between the cumulative distribution functions of the binomial distribution and Poisson distribution.
